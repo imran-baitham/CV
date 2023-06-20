@@ -20,6 +20,13 @@ staying up-to-date with the latest industry trends and continually improving ski
 
 # Work Experience
 ### Sr. Front-end Engineer, Non-Fungible Arcade [NFA](https://www.nfa.gg) (Jan 23 - July 23)
+* Duties and Responsibilites
+  - Successfully completed NFA website and web application as a Sr. Front-end developer
+  - Adept in using Javascript and Typescript to build web applications.
+  - Designed a responsive user interface using TailwindCSS, ensuring optimal user experience on all devices.
+  - Implemented Git for version control, hosted the repository on Github and deployed on Vercel.
+  - The website is currently hosted at https://www.nfa.gg and serves as a testament to my front-end development skills.
+  - Proven ability to deliver high-quality results in a timely manner, meeting project deadlines and exceeding client expectations.
 
 
 
