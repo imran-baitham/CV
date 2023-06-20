@@ -37,7 +37,7 @@ staying up-to-date with the latest industry trends and continually improving ski
   - Adopted a monorepo architecture, allowing for efficient project management using GitHub Issues and GitHub Project Management.
 
 ### Sr. Front-end Developer - [bPersonal](https://www.bpersonal.ai) (Jan 22 - jun 22)
- * Duties and Responsibilites
+* Duties and Responsibilites
   - Bugs resolver, Resolved bugs in the app and worked on Performance of application
   - Utilized Git for version control and hosted the repository on GitLab. The completed web application is hosted at https://www.bpersonal.com and showcases my ability to maintain and improve existing web applications.
   - Used MaterialUI for the responsive design of the user interface.
