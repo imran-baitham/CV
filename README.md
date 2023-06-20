@@ -19,7 +19,8 @@ staying up-to-date with the latest industry trends and continually improving ski
 * Project Managment - Trello, Linear, Asana, ClickUp
 
 # Work Experience
-## * Sr. Front-end Developer 
+### Sr. Front-end Engineer, Non-Fungible Arcade [NFA](https://www.nfa.gg) (Jan 23 - July 23)
+
 
 
 ## Contact 
